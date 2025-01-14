@@ -3,13 +3,13 @@ A recommendation system for electronic products
 
 This Jupyter Notebook explores and implements two different approaches to building a recommendation system for electronic products:
 
-#1. Popularity-Based Recommendation:
+**1. Popularity-Based Recommendation:**
 
 This approach recommends products based on their overall popularity among all users.
 It identifies the most frequently purchased or highly-rated products and suggests them to everyone, regardless of individual user preferences.
 It's a simple and straightforward method, but it lacks personalization.
 
-#2. Collaborative Filtering:
+**2. Collaborative Filtering:**
 
 This approach recommends products based on the preferences of similar users.
 It leverages the idea that if two users have liked similar items in the past, they are likely to have similar tastes in the future.
